@@ -7,6 +7,6 @@
     "mongoose": "npm:mongoose@^8.4.4"
   },
   "name": "@takos/update",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "exports": "./main.ts"
 }
