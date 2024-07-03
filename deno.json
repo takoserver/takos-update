@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@david/dax": "jsr:@david/dax@^0.41.0",
+    "mongoose": "npm:mongoose@^8.4.4"
+  },
+  "name": "@takos/update",
+  "version": "0.1.0",
+  "exports": "./main.ts"
+}
