@@ -34,4 +34,4 @@ async function main() {
   }
   console.log("This script is takos script");
 }
-export default main;
+main();
