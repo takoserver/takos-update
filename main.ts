@@ -32,5 +32,6 @@ async function main() {
     console.log("This script is not takos script");
     return;
   }
+  console.log("This script is takos script");
 }
 export default main;
